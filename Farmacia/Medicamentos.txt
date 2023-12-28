@@ -1,0 +1,4 @@
+Codigo,NombreMedicamento,TipoMedicamento
+1,Paracetamol,Pastilla
+2,Ambroxol,Jarabe
+3,Actron,Capsula
